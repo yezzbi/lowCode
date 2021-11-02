@@ -1,4 +1,4 @@
 # lowCode
-A low code platform based on python to create web pages
+A low code platform to create webpages,hybrid mobile apps
 
 Contributions are appreciated
